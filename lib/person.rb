@@ -1,5 +1,5 @@
 class Person
-  @@adele_goldberg
-  @@alan_key
+  adele_goldberg
+  alan_key
 
 end
