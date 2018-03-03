@@ -1,7 +1,7 @@
 class Person
   @@adele_goldberg
   @@alan_key
-<<<<<<< HEAD
+
 end
 =======
 end
